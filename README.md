@@ -3,6 +3,8 @@ Nathaniel Fruchter / nhf
 Music Transcription: A 112 Term Project
 ######################################
 
+This is best music transcription for music lover
+
 [A few notes on design]
 
 At the highest level, this project was supposed to be a sort-of Guitar Hero for actual instruments:
